@@ -33,8 +33,8 @@
 <addon id="repository.targetin1080p" name="targetin1080p Repo" version="1.1.0001" provider-name="targetin1080p">
 	<extension point="xbmc.addon.repository" name="Targetin1080p Repository">
 		<info compressed="false">https://raw.githubusercontent.com/targetin1080p/targetin1080p/master/zip/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/targetin1080p/targetin1080p/master/zip/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/targetin1080p/targetin1080p/raw/master/zip/</datadir>
+		<checksum>https://raw.githubusercontent.com/targetin1080p/targetin1080p/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/targetin1080p/targetin1080p/raw/master/zips/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>The Targetin1080p Repo</summary>
